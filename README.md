@@ -25,6 +25,6 @@ This is an open-to-all repository, where we encourage, students, teachers, devel
 7. Start contributing !
 
 **REMEMBER :** 
-  - The file name must be the name of the your Class of model. Say the LRUCache problem. So, your file name should be : ```bfs.cpp```
+  - The file name must be the name of the your Class of model. Say the bfs problem. So, your file name should be : ```bfs.cpp```
 
 HAPPY CONTRIBUTING !!
